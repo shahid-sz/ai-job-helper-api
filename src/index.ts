@@ -50,7 +50,7 @@ app.post("/api/analyze", async (req, res) => {
 
   if (!cv || !jobDescription) {
     return res.status(400).json({
-      error: "CV and job description are required",
+      error: "CV and job description are required!",
     });
   }
 
