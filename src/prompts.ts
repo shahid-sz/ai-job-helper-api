@@ -21,5 +21,5 @@ Return exactly this JSON shape (keys and types must match):
   "matchScore": 75,
   "missingKeywords": ["keyword1", "keyword2"],
   "tailoredSummary": "summary here",
-  "coverLetter": "cover letter here "
+  "coverLetter": "cover letter here"
 }`;
